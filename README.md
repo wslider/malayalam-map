@@ -34,3 +34,8 @@
         - Trivandrum : coastal
         - Kochi : urban
         - Munnar : hills 
+
+
+## Sources and Tools / AI use
+- CSS Reset from: https://www.joshwcomeau.com/css/custom-css-reset/ 
+- 
